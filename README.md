@@ -1,6 +1,9 @@
 # Probabilistic-Foundations-of-the-Staver-Levin-model
 MATLAB scripts for producing figures from our paper - https://arxiv.org/abs/1911.06770
 
+Figure 3 - QSD_final.m 
+         - AbsorptionRate.m
+
 Figure 4 - Poisson_full_model.m
 
 Figure 5 (panel A) - savanna_model_1D_periodic_boundary_IDE.m 
