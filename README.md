@@ -1,6 +1,8 @@
 # Probabilistic-Foundations-of-the-Staver-Levin-model
 MATLAB scripts for producing figures from our paper - https://arxiv.org/abs/1911.06770
 
+Figure 2 - particle_system_bifurcation_diagram.m
+
 Figure 3 - QSD_final.m 
          - AbsorptionRate.m
 
