@@ -6,7 +6,7 @@ Figure 2 - particle_system_bifurcation_diagram.m
 Figure 3 - QSD_final.m 
          - AbsorptionRate.m
 
-Figure 4 - Poisson_full_model.m
+Figure 4 - Poisson_full_model.m - ODE_euler_scheme.m
 
 Figure 5 (panel A) - savanna_model_1D_periodic_boundary_IDE.m 
                    - spatial_particle_system_periodic_boundary.m
